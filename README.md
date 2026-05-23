@@ -6,8 +6,6 @@
 
 *The weather sets the mood. The mood sets the music.*
 
-![atmosify banner](previews/preview-banner.png)
-
 [![Made with Expo](https://img.shields.io/badge/Made%20with-Expo-000020?style=flat&logo=expo&logoColor=white)](https://expo.dev)
 [![React Native](https://img.shields.io/badge/React%20Native-0.74-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev)
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://android.com)
